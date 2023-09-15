@@ -1,0 +1,2 @@
+# ConfiguracionVerbal
+COnfigurcion Verbal
